@@ -11,7 +11,7 @@
 
 ## Setup/Installation Requirements
 
-* _View GitHub Page_
+* _[View GitHub Page](https://webquiza.github.io/practice-css-classes/)_
 
 ## License
 
